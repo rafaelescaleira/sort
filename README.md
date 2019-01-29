@@ -54,21 +54,21 @@ Complexidade de Tempo dos Métodos de Ordenação
 
 | Casos | Bogo Sort | Bubble Sort | Bucket Sort | Cocktail Sort | Comb Sort |  Counting Sort  |
 |:---------:|:----------:|:---------:|:---------:|:----------:|:---------:|:---------:|
-| Pior Caso | O ((n+1)!) | O (n^2) | O (n^2) | O (n^2) | O (n^2) | O(n+k) |
-| Médio Caso | O ((n+1)!) | O (n^2) | O (n) | O (n^2) | O (n^2) | O(n+k) |
+| Pior Caso | O ((n+1)!) | O (n²) | O (n²) | O (n²) | O (n²) | O(n+k) |
+| Médio Caso | O ((n+1)!) | O (n²) | O (n) | O (n²) | O (n²) | O(n+k) |
 | Melhor Caso | O (n) | O (n) | O (n) | O (n) | O (n log(n)) | O(n+k) |
 
 | Casos | Gnome Sort | Heap Sort | Insertion Sort | Merge Sort | Odd Even Sort | Pancake Sort |
 |:---------:|:----------:|:---------:|:---------:|:----------:|:---------:|:---------:|
-| Pior Caso | O (n^2) | O (n log(n)) | O (n^2) | O (n log(n)) | O (n^2) | O (n^2) |
-| Médio Caso | O (n^2) | O (n log(n)) | O (n^2) | O (n log(n)) | O (n^2) | * |
+| Pior Caso | O (n²) | O (n log(n)) | O (n²) | O (n log(n)) | O (n²) | O (n²) |
+| Médio Caso | O (n²) | O (n log(n)) | O (n²) | O (n log(n)) | O (n²) | * |
 | Melhor Caso | O (n) | O (n log(n)) | O (n) | O (n log(n)) | O (n log(n)) | * |
 
 | Casos | Quick Sort | Radix Sort | Selection Sort | Shell Sort | Tree Sort | Selection Sort (Recursivo) |
 |:---------:|:----------:|:---------:|:---------:|:----------:|:---------:|:---------:|
-| Pior Caso | O (n^2) | O(n.k) | O (n^2) | O(n(log(n))^2) | O (n^2) | O (n^2) |
-| Médio Caso | O (n log(n)) | O(n.k) | O (n^2) | O(n(log(n))^2) | O (n log(n)) | O (n^2) |
-| Melhor Caso | O (n) | O(n.k) | O (n^2) | O (n log(n)) | O (n log(n)) | O (n^2) |
+| Pior Caso | O (n²) | O(n.k) | O (n²) | O(n(log(n))^2) | O (n²) | O (n²) |
+| Médio Caso | O (n log(n)) | O(n.k) | O (n²) | O(n(log(n))^2) | O (n log(n)) | O (n²) |
+| Melhor Caso | O (n) | O(n.k) | O (n²) | O (n log(n)) | O (n log(n)) | O (n²) |
 
 Execução do Programa (Teste)
 ----------------------------
