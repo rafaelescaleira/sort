@@ -1,5 +1,10 @@
 Sort (Ordenação) : Benchmark
 ============================
+
+![Build](https://img.shields.io/gitlab/pipeline/rafaelescaleira/sort.svg)
+![Size](https://img.shields.io/github/repo-size/rafaelescaleira/sort.svg)
+![License](https://img.shields.io/github/license/rafaelescaleira/sort.svg)
+
 Esse repositório possui funções implementadas em linguagem C.
 Segue a lista das funções :
 
