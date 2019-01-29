@@ -1,3 +1,0 @@
-script:
-  - makefile=`gcc abb.c teste_abb.c -Wall -std=c99 -pedantic`
-  - ./a.out
